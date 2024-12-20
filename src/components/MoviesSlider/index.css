@@ -1,0 +1,21 @@
+.slick-next {
+  right: 10px; /* Adjust position if needed */
+
+  z-index: 1;
+}
+
+.slick-next::before {
+  color:black; /* Change this to your desired color */
+}
+
+/* Customizing the previous button */
+
+.slick-prev {
+  left: 10px; /* Adjust position if needed */
+
+  z-index: 1;
+}
+
+.slick-prev::before {
+  color: black; /* Change this to your desired color */
+}
